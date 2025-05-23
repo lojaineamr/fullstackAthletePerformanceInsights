@@ -5,7 +5,10 @@ then open the terminal and make a split terminal and run the commands:
   cd frontend 
   npm install
   npm start
-it will say that there is something running on the same port click the button y it will work
+it will say:
+  Something is already running on port 3000.   
+  Would you like to run the app on another port instead? » (Y/n)
+  click the button y it will work
 in the other terminal run:
   cd backend
   npm install
