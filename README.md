@@ -1,4 +1,4 @@
-after cloning, when you unzip the files make a new .env file and include in it this:
+after cloning, when you unzip the files if its not created, make a new .env file and include in it this:
   PORT=3000
   JWT_SECRET=secret_key
 then open the terminal and make a split terminal and run the commands:
